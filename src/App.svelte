@@ -1,4 +1,5 @@
 <script lang="ts">
+	import PasswordGenerator from './lib/PasswordGenerator.svelte';
   import svelteLogo from './assets/svelte.svg'
   import viteLogo from '/vite.svg'
   import Counter from './lib/Counter.svelte'
@@ -16,7 +17,7 @@
   <h1>Vite + Svelte</h1>
 
   <div class="card">
-    <Counter />
+    <PasswordGenerator />
   </div>
 
   <p>
