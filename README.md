@@ -11,13 +11,13 @@ A simple password generator built with Svelte, and accessible via github pages.
 
 1. Clone the repository: `git clone https://github.com/tnglemongrass/svelte-password-generator.git`
 2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm run dev` or `yarn dev`
+3. Start the development server: `npm run dev`
 4. Open the app in your web browser: `http://localhost:5173`
 
 ## Building and Deploying
 
-1. Build the app: `npm run build` or `yarn build`
-2. Deploy to GitHub Pages: `npm run deploy` or `yarn deploy`
+1. Build the app: `npm run build`
+2. Deploy to GitHub Pages: `npm run deploy`
 
 ## Technologies Used
 
